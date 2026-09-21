@@ -1,0 +1,3294 @@
+{
+    "recipes": [
+        {
+            "id": "marak-of-kneidlach",
+            "title": "Golden Chicken Soup with Kneidlach",
+            "originalName": "גאלדענע יויך",
+            "description": "The soup they call goldene yoich — bird on the bone given three hours and never once allowed to boil.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Meat",
+            "image": "images/Marak_Of_Kneidlach.jpg",
+            "prepTime": 25,
+            "cookTime": 180,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole chicken with bones",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "carrots",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley root",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "celery root",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "whole onions, skins on",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "dill and coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "allspice berries",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "prepared kneidlach",
+                    "quantity": "16",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Cover the chicken with cold water and bring slowly to the edge of a boil. Skim the grey foam until it stops coming — that decides whether the broth runs clear.",
+                "Leave the onions in their skins — the skin is what gives the gold, not the fat.",
+                "Add the root vegetables, allspice and the herbs tied in a bundle.",
+                "Simmer 3 hours at the lowest heat there is. The soup never boils — boiling clouds it and there is no way back.",
+                "Strain, salt at the end, and cool. The fat that sets on top can be lifted off or left.",
+                "Cook the kneidlach in a separate pot and add them to the bowl. This is a meat soup — no cream, no butter."
+            ],
+            "tags": [
+                "chicken soup",
+                "shabbat",
+                "kneidlach",
+                "ashkenazi"
+            ]
+        },
+        {
+            "id": "kneidlach",
+            "title": "Kneidlach",
+            "originalName": "קניידלעך",
+            "description": "Matzo balls that swell as they cook — light or leaden, and only two decisions settle which.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Parve",
+            "image": "images/Kneidlach.jpg",
+            "prepTime": 45,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "matzo meal",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cold sparkling water",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Beat the eggs with oil, salt and pepper. Add the matzo meal and stir — do not knead. Kneading turns them into rubber.",
+                "Add the cold sparkling water. The bubbles are what lift them.",
+                "Chill the mixture at least an hour, covered. Without that it will not hold its shape.",
+                "Bring a large pot of salted water to the boil, then drop to a gentle simmer.",
+                "Wet your hands and roll walnut-sized balls. They will double — do not pack them tight.",
+                "Cook covered for 30 minutes without lifting the lid. Made with oil, these are parve and belong in a meat soup too."
+            ],
+            "tags": [
+                "kneidlach",
+                "matzo",
+                "passover",
+                "parve"
+            ]
+        },
+        {
+            "id": "borscht-adom",
+            "title": "Beet Borscht",
+            "originalName": "בארשט",
+            "description": "A ruby sweet-sour beet soup, served hot in winter and cold in summer.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Parve",
+            "image": "images/Borscht_Adom.jpg",
+            "prepTime": 20,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "beets",
+                    "quantity": "6",
+                    "unit": "medium"
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Peel and coarsely grate the beets — grating gives a stronger colour than dicing.",
+                "Fry the onion in the oil 6 minutes, add the beet and stir 3 minutes.",
+                "Add water, bay, sugar and half the lemon juice.",
+                "Simmer 45 minutes. The acid goes in early — without it the colour fades to brown.",
+                "Add the rest of the lemon juice at the end and correct salt, pepper and sugar until the sweet and sour balance.",
+                "Serve hot, or chill overnight and serve cold. Parve — it suits a meat meal and a dairy one alike."
+            ],
+            "tags": [
+                "borscht",
+                "beet",
+                "parve",
+                "ashkenazi"
+            ]
+        },
+        {
+            "id": "shav",
+            "title": "Shav — Cold Sorrel Soup",
+            "originalName": "שטשאוו",
+            "description": "Sour sorrel leaves melted into a green soup, served cold with sour cream and a hard egg.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Dairy",
+            "image": "images/Shav.jpg",
+            "prepTime": 15,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "sorrel leaves",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "potato",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "sour cream",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hard-boiled eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "butter",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and sugar",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Wash the sorrel and strip the thick stems. The leaves will darken as they cook — that is expected, not spoilage.",
+                "Fry the onion in butter 5 minutes, add the grated potato and the water.",
+                "Cook 12 minutes, add the sorrel and cook 3 minutes only — longer destroys the sourness.",
+                "Blend smooth and correct with salt and a little sugar for balance.",
+                "Chill completely, at least 4 hours.",
+                "Whisk sour cream into each bowl separately and add half a hard-boiled egg. A dairy dish."
+            ],
+            "tags": [
+                "shav",
+                "sorrel",
+                "dairy",
+                "summer"
+            ]
+        },
+        {
+            "id": "krupnik",
+            "title": "Krupnik — Barley Soup",
+            "originalName": "קרופניק",
+            "description": "A thick barley and beef soup, plain and consoling, that fed whole families through winter.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Meat",
+            "image": "images/Krupnik.jpg",
+            "prepTime": 20,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "bone-in beef",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "pearl barley",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "carrots",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley root",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "dried mushrooms",
+                    "quantity": "30",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "2.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "chopped dill",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the dried mushrooms in hot water 30 minutes. Keep the soaking liquid — it is half the flavour.",
+                "Boil the beef and skim until the broth runs clear.",
+                "Add rinsed barley, onion, carrot and parsley root.",
+                "Add the mushrooms and their strained soaking liquid.",
+                "Simmer 1½ hours until the barley opens and the soup thickens on its own.",
+                "Scatter dill and serve. A meat soup — no sour cream, tempting as it is."
+            ],
+            "tags": [
+                "krupnik",
+                "barley",
+                "winter",
+                "meat"
+            ]
+        },
+        {
+            "id": "marak-kruv-chamutz",
+            "title": "Sweet-and-Sour Cabbage Soup",
+            "originalName": "קרויט זופ",
+            "description": "Cabbage, tomato and beef in a broth balanced between vinegar and sugar — the base holishkes came from.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Meat",
+            "image": "images/Marak_Kruv_Chamutz.jpg",
+            "prepTime": 25,
+            "cookTime": 150,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "beef, cubed",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "white cabbage, sliced",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "brown sugar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Sear the beef, add the onion and fry 8 minutes.",
+                "Add the tomato paste and fry 2 minutes until it darkens — that cooks out its raw sourness.",
+                "Add cabbage, crushed tomatoes and water to cover.",
+                "Simmer 1 hour, then add sugar, lemon and raisins.",
+                "Simmer another hour and correct — the aim is that neither one wins, not the sour and not the sweet.",
+                "Serve with a slice of challah. A meat soup."
+            ],
+            "tags": [
+                "cabbage",
+                "sweet-sour",
+                "meat",
+                "winter"
+            ]
+        },
+        {
+            "id": "marak-pitriyot-seora",
+            "title": "Mushroom and Barley Soup",
+            "originalName": "שוועמל זופ",
+            "description": "Krupnik without the meat — dried mushrooms supply the depth the beef would have.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Parve",
+            "image": "images/Marak_Pitriyot_Seora.jpg",
+            "prepTime": 20,
+            "cookTime": 70,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried mushrooms",
+                    "quantity": "50",
+                    "unit": "g"
+                },
+                {
+                    "name": "fresh mushrooms, sliced",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "pearl barley",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "chopped dill",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the dried mushrooms in hot water 40 minutes. Strain through cloth and keep the liquid.",
+                "Fry the onion in the oil 8 minutes to a deep gold — all the depth is built here, because there is no meat to do it.",
+                "Add the fresh mushrooms and fry 10 minutes until their liquid has gone entirely.",
+                "Add barley, carrot, the soaked mushrooms and their liquid.",
+                "Simmer 50 minutes until the barley is soft and the soup thick.",
+                "Scatter dill. Parve — it goes to a meat meal or a dairy one."
+            ],
+            "tags": [
+                "mushroom",
+                "barley",
+                "parve",
+                "soup"
+            ]
+        },
+        {
+            "id": "marak-perot-kar",
+            "title": "Cold Fruit Soup",
+            "originalName": "פרוכט זופ",
+            "description": "Prunes, apricots and apples simmered into a thin compote and served cold, as a first course.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Parve",
+            "image": "images/Marak_Perot_Kar.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried prunes",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried apricots",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tart apples",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "litres"
+                }
+            ],
+            "instructions": [
+                "Soak the dried fruit in hot water 20 minutes and drain.",
+                "Simmer water, sugar, cinnamon and cloves 10 minutes into a light syrup.",
+                "Add the dried fruit and cook 15 minutes.",
+                "Add the diced apple and cook 5 minutes only — it has to stay in pieces, not dissolve.",
+                "Lift out the cinnamon and cloves and add the lemon juice.",
+                "Chill overnight. Served cold in summer as a first course, not as dessert. Parve."
+            ],
+            "tags": [
+                "fruit soup",
+                "cold",
+                "parve",
+                "summer"
+            ]
+        },
+        {
+            "id": "marak-tapuchei-adama-schmaltz",
+            "title": "Potato Soup with Schmaltz",
+            "originalName": "קארטאפל זופ",
+            "description": "A plain country soup whose whole depth comes from rendered poultry fat and deeply fried onion.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Meat",
+            "image": "images/Marak_Tapuchei_Adama_Schmaltz.jpg",
+            "prepTime": 20,
+            "cookTime": 50,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "potatoes",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "schmaltz (chicken fat)",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley root",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "chicken stock",
+                    "quantity": "1.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "dried marjoram",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "chopped dill",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Melt the schmaltz in a heavy pot and fry the onion 15 minutes to a deep brown — not golden, brown.",
+                "Add the diced potato and turn it in the fat for 3 minutes.",
+                "Add stock, bay and marjoram.",
+                "Simmer 30 minutes until the potato crushes under pressure.",
+                "Mash about a third against the side of the pot to thicken and leave the rest in pieces.",
+                "Scatter dill. Schmaltz is poultry fat, so this soup is meat — it cannot be served with butter or cream."
+            ],
+            "tags": [
+                "potato",
+                "schmaltz",
+                "meat",
+                "winter"
+            ]
+        },
+        {
+            "id": "borscht-basari",
+            "title": "Meat Borscht with Flanken",
+            "originalName": "פלייש בארשט",
+            "description": "The heavy borscht — beet, cabbage and short rib given three hours together until the soup is a meal.",
+            "category": "Soups & Kneidlach",
+            "kosherType": "Meat",
+            "image": "images/Borscht_Basari.jpg",
+            "prepTime": 25,
+            "cookTime": 180,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "flanken (beef short ribs)",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "beets, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "cabbage, sliced",
+                    "quantity": "1/2",
+                    "unit": "head"
+                },
+                {
+                    "name": "potatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "chopped dill",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Boil the flanken and skim carefully for 15 minutes.",
+                "Add the tomato paste and cook 1½ hours until the meat begins to give.",
+                "Add the grated beet, cabbage and half the lemon juice.",
+                "Cook another hour, then add the potatoes for the final 30 minutes.",
+                "Correct with sugar and the rest of the lemon until balanced.",
+                "Scatter dill. Meat — and unlike the parve borscht, sour cream is out of the question here."
+            ],
+            "tags": [
+                "borscht",
+                "flanken",
+                "meat",
+                "winter"
+            ]
+        },
+        {
+            "id": "gefilte-fish",
+            "title": "Gefilte Fish",
+            "originalName": "געפֿילטע פֿיש",
+            "description": "Sweet, delicate fish quenelles poached in vegetable broth and served cold with horseradish.",
+            "category": "Fish & Starters",
+            "kosherType": "Parve",
+            "image": "images/Gefilte_Fish.jpg",
+            "prepTime": 45,
+            "cookTime": 120,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "carp and pike fillet, ground",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "matzo meal",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fish heads and bones for stock",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "carrots, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "salt and white pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Simmer a stock from the fish heads, bones, a whole onion, carrot and a little sugar — 40 minutes, then strain.",
+                "Mix the ground fish with grated onion, eggs, matzo meal, sugar, salt and white pepper.",
+                "Chill the mixture 30 minutes, then beat it hard for 3 minutes — the beating is what makes it light instead of dense.",
+                "Wet your hands and shape oval quenelles.",
+                "Lower them gently into the simmering stock, cover and cook 1½ hours at the lowest heat. Do not stir at all.",
+                "Cool in the stock overnight; it will set to jelly. Serve cold with a slice of carrot and horseradish. Parve."
+            ],
+            "tags": [
+                "gefilte",
+                "fish",
+                "shabbat",
+                "parve"
+            ]
+        },
+        {
+            "id": "kavad-katzutz",
+            "title": "Chopped Liver",
+            "originalName": "געהאקטע לעבער",
+            "description": "Broiled chicken liver, caramelised onion and hard egg — chopped with a knife, never ground.",
+            "category": "Fish & Starters",
+            "kosherType": "Meat",
+            "image": "images/Kavad_Katzutz.jpg",
+            "prepTime": 30,
+            "cookTime": 25,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "kashered chicken livers",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "4",
+                    "unit": "large"
+                },
+                {
+                    "name": "hard-boiled eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "schmaltz",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "gribenes (cracklings)",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "The liver must be broiled over open flame first — that is a kashrut requirement, not a matter of taste.",
+                "Caramelise the onion in schmaltz for 20 minutes over medium-low heat, to a dark and sweet brown.",
+                "Add the broiled liver and warm together 5 minutes only.",
+                "Cool everything completely — chopping it warm turns the mixture to paste.",
+                "Chop by hand with a knife together with the eggs, not in a processor. The grainy texture is the dish.",
+                "Fold in the gribenes, correct salt and pepper, and serve on challah. Meat — schmaltz and gribenes are both poultry fat."
+            ],
+            "tags": [
+                "chopped liver",
+                "schmaltz",
+                "meat",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "herring-shmaltz",
+            "title": "Herring in Oil and Onion",
+            "originalName": "הערינג אין בוימל",
+            "description": "Soaked salt fillets in sunflower oil with onion rings and bay — parve, and served with vodka.",
+            "category": "Fish & Starters",
+            "kosherType": "Parve",
+            "image": "images/Herring_Shmaltz.jpg",
+            "prepTime": 30,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "salted herring fillets",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "red onions, thinly sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "sunflower oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "allspice berries",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Soak the herring in cold water 6–8 hours, changing the water three times. Any less and it stays too salt to eat.",
+                "Dry well and cut into bite-sized pieces.",
+                "Layer into a jar: herring, onion rings, bay, allspice, and repeat.",
+                "Mix the oil, vinegar and sugar and pour over until fully covered.",
+                "Seal and refrigerate at least 48 hours — below that the onion is still sharp and the oil has not gone in.",
+                "Serve cold with rye bread. Parve — it suits the end of a meat meal."
+            ],
+            "tags": [
+                "herring",
+                "onion",
+                "parve",
+                "kiddush"
+            ]
+        },
+        {
+            "id": "herring-smetana",
+            "title": "Herring in Sour Cream and Apple",
+            "originalName": "הערינג אין סמעטענע",
+            "description": "The same fish, a wholly different dish — sour cream, tart apple and dill soften the salt.",
+            "category": "Fish & Starters",
+            "kosherType": "Dairy",
+            "image": "images/Herring_Smetana.jpg",
+            "prepTime": 30,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "salted herring fillets",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "sour cream",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "tart green apples",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped dill",
+                    "quantity": "4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Soak the herring 6–8 hours in cold water with three changes, and dry.",
+                "Cut into bite-sized pieces and chop the onion as fine as it will go.",
+                "Coarsely grate the apple and toss it with the lemon juice at once so it does not brown.",
+                "Fold sour cream, apple, onion, dill and pepper into an even mixture.",
+                "Fold the herring through gently and refrigerate at least 12 hours.",
+                "Serve cold. A dairy dish — unlike the herring in oil, it cannot follow meat."
+            ],
+            "tags": [
+                "herring",
+                "sour cream",
+                "dairy",
+                "kiddush"
+            ]
+        },
+        {
+            "id": "beitzim-basal",
+            "title": "Eggs and Onions",
+            "originalName": "איי מיט ציבעלע",
+            "description": "Three ingredients and no more — hard egg, raw onion and schmaltz or oil. The plainness is the dish.",
+            "category": "Fish & Starters",
+            "kosherType": "Parve",
+            "image": "images/Beitzim_Basal.jpg",
+            "prepTime": 20,
+            "cookTime": 12,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "eggs",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": "medium"
+                },
+                {
+                    "name": "sunflower oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Boil the eggs exactly 11 minutes, drop into iced water and peel.",
+                "Chop the onion very fine and salt it. Rest 10 minutes, then squeeze out the bitter liquid — that is the difference between this dish and raw onion.",
+                "Mash the eggs with a fork to coarse crumbs. Not to a paste.",
+                "Combine eggs and onion and add the oil gradually until the mixture is moist and holds together.",
+                "Season generously — black pepper is the only spice here.",
+                "Serve on challah or matzo. Parve with oil; made with schmaltz it is meat."
+            ],
+            "tags": [
+                "eggs",
+                "onion",
+                "parve",
+                "starter"
+            ]
+        },
+        {
+            "id": "ptcha",
+            "title": "Ptcha",
+            "originalName": "פּטשאַ",
+            "description": "Calf's feet simmered four hours with garlic, the broth setting by itself into clear jelly.",
+            "category": "Fish & Starters",
+            "kosherType": "Meat",
+            "image": "images/Ptcha.jpg",
+            "prepTime": 40,
+            "cookTime": 240,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "calf's feet, cut",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "whole heads of garlic",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "allspice berries",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "hard-boiled eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "litres"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Soak the feet in cold water 2 hours, scrub well and blanch 10 minutes. Discard that water entirely and refill with fresh.",
+                "Add onion, bay and allspice and simmer 4 hours at the lowest heat.",
+                "Lift out the meat, strip it from the bones and chop fine. Strain the broth through cloth.",
+                "Crush the garlic and stir it into the hot broth. The garlic goes in at the end — long cooking makes it bland.",
+                "Arrange the chopped meat and sliced egg in a dish and pour the broth over.",
+                "Chill overnight until fully set. Cut into squares and serve cold with horseradish. Meat."
+            ],
+            "tags": [
+                "ptcha",
+                "jelly",
+                "meat",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "schmaltz-gribenes",
+            "title": "Schmaltz and Gribenes",
+            "originalName": "שמאַלץ און גריבענעס",
+            "description": "Chicken fat rendered slowly with onion, and the skin left behind turned to crisp gribenes.",
+            "category": "Fish & Starters",
+            "kosherType": "Meat",
+            "image": "images/Schmaltz_Gribenes.jpg",
+            "prepTime": 15,
+            "cookTime": 60,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken skin and fat",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Cut the skin and fat small and put them in a heavy pot with a quarter cup of water.",
+                "The water stops it catching in the first minutes, before the fat begins to run. It boils away on its own.",
+                "Cook over very low heat for 40 minutes. The fat separates gradually and the skin shrinks.",
+                "Add the sliced onion for the last 20 minutes only — onion added early will burn.",
+                "When the skin is golden and crisp and the onion brown, strain: the liquid is schmaltz, the solids are gribenes.",
+                "Keep the schmaltz refrigerated up to two months. Both are meat — schmaltz is the butter substitute of a meat meal."
+            ],
+            "tags": [
+                "schmaltz",
+                "gribenes",
+                "meat",
+                "staple"
+            ]
+        },
+        {
+            "id": "chrein",
+            "title": "Beet Chrein",
+            "originalName": "כריין",
+            "description": "Grated horseradish root with beet and vinegar — sharp enough to bring tears, and the only thing that belongs beside gefilte.",
+            "category": "Fish & Starters",
+            "kosherType": "Parve",
+            "image": "images/Chrein.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 16,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "horseradish root",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "cooked beets",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "wine vinegar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Peel the horseradish and cut it into chunks. Open a window and work near it — the fumes are far sharper than onion.",
+                "Grind the horseradish in a processor. Keep your face away when you lift the lid.",
+                "Add the chopped cooked beet and process to an even deep pink.",
+                "Add vinegar, sugar and salt and mix. The vinegar stops the heat developing — any earlier and the chrein stays weak.",
+                "Transfer to a sealed jar and refrigerate at least 24 hours.",
+                "Keeps two months refrigerated; the heat fades with time. Parve."
+            ],
+            "tags": [
+                "chrein",
+                "beet",
+                "parve",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "karpion-bzele",
+            "title": "Carp in Jelly",
+            "originalName": "פֿיש אין זשעלע",
+            "description": "Whole fish slices poached in stock and served inside the jelly that sets around them.",
+            "category": "Fish & Starters",
+            "kosherType": "Parve",
+            "image": "images/Karpion_Bzele.jpg",
+            "prepTime": 30,
+            "cookTime": 60,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "carp steaks",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "fish heads and bones",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley root",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "allspice berries",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and white pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Simmer a strong stock from the heads, bones, onion, parsley root and allspice — 45 minutes. Strain through cloth.",
+                "Return the stock to a wide pot and lay the fish steaks in a single layer, not crowded.",
+                "Add the sliced carrot and sugar and poach 20–25 minutes at the lowest heat.",
+                "Lift the fish out gently with a wide spatula and arrange in a shallow serving dish.",
+                "Reduce the stock 10 minutes, correct the salt, and pour it over the fish.",
+                "Chill overnight. The gelatine from the bones sets the stock with nothing added. Parve."
+            ],
+            "tags": [
+                "carp",
+                "jelly",
+                "parve",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "kishke",
+            "title": "Kishke",
+            "originalName": "קישקע",
+            "description": "A filling of flour, vegetables and schmaltz baked in a casing and cut in thick slices — usually inside the cholent.",
+            "category": "Fish & Starters",
+            "kosherType": "Meat",
+            "image": "images/Kishke.jpg",
+            "prepTime": 30,
+            "cookTime": 150,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "semolina",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "celery, grated",
+                    "quantity": "1",
+                    "unit": "stalk"
+                },
+                {
+                    "name": "melted schmaltz",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Mix flour, semolina, paprika, salt and pepper in a bowl.",
+                "Grate the onion, carrot and celery and do not squeeze them — their liquid is all the moisture in the recipe.",
+                "Add the melted schmaltz and mix to a thick paste that clings to the spoon.",
+                "Turn onto a roasting sleeve or parchment, roll into a thick sausage and seal both ends well.",
+                "Bake at 180°C for 1½ hours, or bury it in the cholent and let it cook there overnight.",
+                "Cool 20 minutes before slicing. Meat — schmaltz is poultry fat."
+            ],
+            "tags": [
+                "kishke",
+                "schmaltz",
+                "cholent",
+                "meat"
+            ]
+        },
+        {
+            "id": "cholent",
+            "title": "Cholent",
+            "originalName": "טשאָלנט",
+            "description": "The pot that sits on a low flame from Friday to Saturday noon — beans, barley, meat and potato melting into one thing.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Cholent.jpg",
+            "prepTime": 30,
+            "cookTime": 720,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "bone-in beef",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "mixed dried beans",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "pearl barley",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "whole small potatoes",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs in their shells",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "schmaltz",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Soak the beans overnight and drain. Unsoaked beans will not soften even in twelve hours.",
+                "Fry the onion in schmaltz at the base of the pot for 12 minutes to a deep brown, then sear the meat on top of it.",
+                "Layer in: beans, barley, whole potatoes, and the eggs in their shells tucked between them.",
+                "Scatter paprika, salt and pepper and add boiling water to two centimetres above everything. That is the amount — no more.",
+                "Bring to the boil on the hob, then move to a 100°C oven or a hotplate for the night.",
+                "Do not open it and do not stir until serving. The eggs come out brown. Serve with kishke and chrein."
+            ],
+            "tags": [
+                "cholent",
+                "shabbat",
+                "meat",
+                "hamin"
+            ]
+        },
+        {
+            "id": "kreplach",
+            "title": "Kreplach",
+            "originalName": "קרעפּלעך",
+            "description": "Thin dough parcels filled with meat, served in the chicken soup or fried in schmaltz.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Kreplach.jpg",
+            "prepTime": 60,
+            "cookTime": 25,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "eggs for the dough",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cooked beef, chopped",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "fried onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "egg for the filling",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "schmaltz",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Knead flour, eggs, water and salt into a firm, elastic dough, 8 minutes. Wrap and rest an hour — unrested dough springs back and will not roll.",
+                "Chop the cooked beef fine and mix with the fried onion, egg, schmaltz, salt and pepper.",
+                "Roll the dough very thin and cut 7 cm squares.",
+                "Place a teaspoon of filling in the centre, brush the edges with water and fold into a triangle. Press the air out before sealing — trapped air bursts the parcel as it cooks.",
+                "Boil in salted water 12–15 minutes: until they float, then two minutes more.",
+                "Serve in chicken soup, or fry in schmaltz until golden. Meat."
+            ],
+            "tags": [
+                "kreplach",
+                "dumplings",
+                "meat",
+                "festive"
+            ]
+        },
+        {
+            "id": "brisket",
+            "title": "Slow-Braised Brisket",
+            "originalName": "ברוסט",
+            "description": "A whole brisket in onion and wine, four low hours, and sliced against the grain or ruined.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Brisket.jpg",
+            "prepTime": 25,
+            "cookTime": 240,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef brisket",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, thickly sliced",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "dry kosher red wine",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "beef stock",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Dry the joint well and sear it in a heavy pot to a deep brown on every side — twelve patient minutes.",
+                "Lift it out and fry the onion in the same fat for 15 minutes until brown and sweet.",
+                "Add the tomato paste and fry 2 minutes, then the wine. Scrape the base until everything browned lifts off.",
+                "Return the joint fat side up and add stock, garlic and bay to two-thirds of the meat's height.",
+                "Cover and bake at 150°C for 3½–4 hours.",
+                "Cool completely before slicing, ideally overnight. Slice against the grain and return to the sauce to reheat. Meat."
+            ],
+            "tags": [
+                "brisket",
+                "braise",
+                "festive",
+                "meat"
+            ]
+        },
+        {
+            "id": "holishkes",
+            "title": "Holishkes — Stuffed Cabbage",
+            "originalName": "האָלישקעס",
+            "description": "Cabbage leaves rolled around meat and rice in a sweet-sour tomato braise with raisins.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Holishkes.jpg",
+            "prepTime": 50,
+            "cookTime": 120,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole white cabbage",
+                    "quantity": "1",
+                    "unit": "large"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "uncooked rice",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onion, grated",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "brown sugar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Core the cabbage and lower the whole head into boiling water. Peel the leaves off one by one as they soften.",
+                "Shave down the thick rib of each leaf with a knife so it rolls without tearing.",
+                "Mix beef, uncooked rice, grated onion, salt and pepper — the rice swells inside the braise and drinks the sauce.",
+                "Put a spoonful in each leaf, fold the sides in and roll tight.",
+                "Pack the rolls seam side down in a pot lined with spare cabbage leaves so they cannot open.",
+                "Add tomatoes, sugar, lemon and raisins and cook covered 2 hours over low heat. Meat."
+            ],
+            "tags": [
+                "holishkes",
+                "stuffed cabbage",
+                "meat",
+                "sukkot"
+            ]
+        },
+        {
+            "id": "tzimmes-basari",
+            "title": "Meat Tzimmes",
+            "originalName": "צימעס מיט פֿלייש",
+            "description": "Carrot, prune and sweet potato cooked with flanken until everything is sweet, orange and glossy — the Rosh Hashanah dish.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Tzimmes_Basari.jpg",
+            "prepTime": 25,
+            "cookTime": 180,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "flanken or chuck roast",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "carrots, thickly sliced",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "sweet potatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "dried prunes",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "orange juice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Sear the meat in oil in a heavy pot until browned all over.",
+                "Add water to partly cover and cook covered 1½ hours, until the meat begins to give.",
+                "Add carrot, sweet potato, prunes, honey, orange juice and cinnamon.",
+                "Cook another 1½ hours over low heat, stirring as little as possible — the carrot falls apart easily.",
+                "Uncover for the last 20 minutes so the sauce reduces and glazes.",
+                "Correct the salt — the sweetness needs it not to become wearying. Meat."
+            ],
+            "tags": [
+                "tzimmes",
+                "rosh hashanah",
+                "meat",
+                "sweet"
+            ]
+        },
+        {
+            "id": "gedempte-fleisch",
+            "title": "Beef Smothered in Onion",
+            "originalName": "געדעמפּטע פֿלייש",
+            "description": "One joint, six onions and almost no liquid — the onion collapses and becomes the sauce itself.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Gedempte_Fleisch.jpg",
+            "prepTime": 20,
+            "cookTime": 210,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "beef chuck roast",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "6",
+                    "unit": "large"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "hot water",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the joint in hot oil in a heavy pot until deeply browned. Set aside.",
+                "Fry all six onions in the same fat over medium heat, 20 minutes, until they reduce to a third and turn brown.",
+                "Return the joint to sit in the onion bed and scatter with paprika, salt, pepper and bay.",
+                "Add half a cup of water and no more — the onion releases its own. Any more and this becomes a soup.",
+                "Cover tightly and cook 3 hours at the lowest heat, turning once halfway.",
+                "Rest 20 minutes, slice against the grain and return to the onion sauce. Meat."
+            ],
+            "tags": [
+                "pot roast",
+                "onion",
+                "meat",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "gefilte-helzel",
+            "title": "Stuffed Chicken Neck",
+            "originalName": "געפֿילטע העלדזל",
+            "description": "Neck skin sewn into a sleeve and filled with flour and schmaltz — a kitchen that threw nothing away.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Gefilte_Helzel.jpg",
+            "prepTime": 40,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "chicken neck skins",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "schmaltz",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "gribenes, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Clean the neck skins well and sew the narrow end shut with kitchen thread.",
+                "Mix flour, grated onion, schmaltz, gribenes, paprika, salt and pepper into a thick paste.",
+                "Fill each sleeve two-thirds only — the filling swells, and a full sleeve splits as it cooks.",
+                "Sew the other end and prick the skin in several places with a needle.",
+                "Simmer in chicken soup for an hour, then move to a 200°C oven for 30 minutes until the skin crisps.",
+                "Cut into thick slices and serve hot. Meat."
+            ],
+            "tags": [
+                "helzel",
+                "schmaltz",
+                "meat",
+                "traditional"
+            ]
+        },
+        {
+            "id": "flanken-kruv",
+            "title": "Flanken with Sauerkraut",
+            "originalName": "פֿלאַנקען מיט קרויט",
+            "description": "Short ribs and sauerkraut cooked together until the cabbage's acid takes the meat apart.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Flanken_Kruv.jpg",
+            "prepTime": 20,
+            "cookTime": 165,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "flanken (beef short ribs)",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "sauerkraut",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tart apple, grated",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "caraway seeds",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "allspice berries",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "beef stock",
+                    "quantity": "2",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Rinse the sauerkraut in cold water and squeeze. Rinse it partly — the aim is to soften the acid, not remove it.",
+                "Sear the flanken in oil until browned all over and lift out.",
+                "Fry the onion 8 minutes, add the sauerkraut, caraway and allspice and stir 5 minutes.",
+                "Add the grated apple — it balances the acid without adding sugar.",
+                "Return the meat, add stock and cook covered 2½ hours over low heat.",
+                "Salt only at the end — sauerkraut is salty already. Meat."
+            ],
+            "tags": [
+                "flanken",
+                "sauerkraut",
+                "meat",
+                "winter"
+            ]
+        },
+        {
+            "id": "leber-tzibeles",
+            "title": "Beef Liver with Onions",
+            "originalName": "לעבער מיט ציבעלעס",
+            "description": "Thick liver slices, broiled first and then fried fast in schmaltz with a great deal of brown onion.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Leber_Tzibeles.jpg",
+            "prepTime": 25,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef liver, sliced",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "4",
+                    "unit": "large"
+                },
+                {
+                    "name": "schmaltz",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "flour for dusting",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Broil the liver over open flame on both sides before anything else — a kashrut requirement that precedes every other step.",
+                "Caramelise the onion in schmaltz for 20 minutes to a deep brown, and set aside.",
+                "Dry the liver slices and dust them in flour mixed with paprika, shaking off the excess.",
+                "Raise the heat high and fry 2–3 minutes a side, no more. Overcooked liver turns grainy and bitter.",
+                "Return the onion, season, and toss 30 seconds off the heat.",
+                "Serve at once with boiled potatoes. Meat."
+            ],
+            "tags": [
+                "liver",
+                "onion",
+                "meat",
+                "quick"
+            ]
+        },
+        {
+            "id": "of-tanur-schmaltz",
+            "title": "Roast Chicken with Schmaltz and Paprika",
+            "originalName": "געבראָטענע הון",
+            "description": "A whole bird rubbed with schmaltz and paprika on a bed of potatoes that take up everything.",
+            "category": "Cholent & Meats",
+            "kosherType": "Meat",
+            "image": "images/Of_Tanur_Schmaltz.jpg",
+            "prepTime": 20,
+            "cookTime": 105,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole chicken",
+                    "quantity": "1.8",
+                    "unit": "kg"
+                },
+                {
+                    "name": "soft schmaltz",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "potatoes, halved",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "dried marjoram",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Mix the schmaltz, paprika, garlic, marjoram and salt into a paste.",
+                "Rub the bird outside, inside, and above all under the breast skin — that is where it reaches the meat itself.",
+                "Spread onion and potatoes across the tin and set the chicken on them.",
+                "Roast covered at 190°C for 60 minutes.",
+                "Uncover, baste from the pan juices, and roast another 35–40 minutes until the skin is dark and crisp.",
+                "Rest 10 minutes before carving. Meat — the schmaltz makes it so regardless."
+            ],
+            "tags": [
+                "chicken",
+                "schmaltz",
+                "paprika",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "kugel-tapuchei-adama",
+            "title": "Potato Kugel",
+            "originalName": "קאַרטאָפֿל קוגל",
+            "description": "A kugel with a thick brown crust and a soft middle — all of it decided by oil heated in the tin before the batter goes in.",
+            "category": "Kugel & Sides",
+            "kosherType": "Parve",
+            "image": "images/Kugel_Tapuchei_Adama.jpg",
+            "prepTime": 30,
+            "cookTime": 90,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "potatoes",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "2",
+                    "unit": "large"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "matzo meal",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Grate the potato and onion alternately — the onion stops the potato darkening while you work.",
+                "Squeeze the mixture hard in a cloth. Keep the liquid: the starch settles at the bottom, so pour off the water and return the starch.",
+                "Mix with eggs, matzo meal, salt and pepper.",
+                "Pour half a cup of oil into the tin and heat it in a 200°C oven until the oil just smokes.",
+                "Pour the batter into the hot oil — it should hiss. That is what makes the crust.",
+                "Bake 80–90 minutes until dark brown on top. Parve with oil; made with schmaltz it is meat."
+            ],
+            "tags": [
+                "kugel",
+                "potato",
+                "parve",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "kugel-yerushalmi",
+            "title": "Yerushalmi Kugel",
+            "originalName": "ירושלמי קוגל",
+            "description": "Noodles in burnt caramel with coarse black pepper — sweet and sharp at once, and given two and a half hours.",
+            "category": "Kugel & Sides",
+            "kosherType": "Parve",
+            "image": "images/Kugel_Yerushalmi.jpg",
+            "prepTime": 30,
+            "cookTime": 150,
+            "servings": 10,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "fine egg noodles",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "coarsely cracked black pepper",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Boil the noodles until soft, drain and set aside.",
+                "Heat the oil and sugar in a heavy pot over medium heat without stirring until the sugar turns dark amber, 8–12 minutes. This step decides everything — too pale and the kugel is bland, too dark and it is bitter.",
+                "Pour the boiling caramel over the noodles and stir at once and fast. It will seize for a moment, then melt through.",
+                "Cool 20 minutes — hot caramel would cook the eggs.",
+                "Fold in the eggs, coarse pepper and salt.",
+                "Bake covered at 160°C for 2 hours, then uncover for 30 minutes. Parve."
+            ],
+            "tags": [
+                "yerushalmi kugel",
+                "caramel",
+                "parve",
+                "shabbat"
+            ]
+        },
+        {
+            "id": "kugel-lokshen-matok",
+            "title": "Sweet Noodle Kugel with Cheese",
+            "originalName": "לאָקשן קוגל",
+            "description": "Wide noodles with cottage cheese, sour cream and raisins — dessert or side, and always dairy.",
+            "category": "Kugel & Sides",
+            "kosherType": "Dairy",
+            "image": "images/Kugel_Lokshen_Matok.jpg",
+            "prepTime": 25,
+            "cookTime": 60,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "wide egg noodles",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "cottage cheese",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "sour cream",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Boil the noodles one minute short of the packet — they keep softening in the oven.",
+                "Soak the raisins in hot water 10 minutes and drain, so they do not pull moisture out of the kugel.",
+                "Mix cottage cheese, sour cream, eggs, sugar and melted butter until smooth.",
+                "Fold the noodles and raisins through gently.",
+                "Pour into a buttered dish and scatter cinnamon over.",
+                "Bake at 180°C for 55–60 minutes until golden and set in the middle. Dairy — it does not follow meat."
+            ],
+            "tags": [
+                "kugel",
+                "noodle",
+                "dairy",
+                "shavuot"
+            ]
+        },
+        {
+            "id": "latkes",
+            "title": "Latkes",
+            "originalName": "לאַטקעס",
+            "description": "Deep-fried potato pancakes, lacy at the edges and soft in the middle — the Hanukkah dish.",
+            "category": "Kugel & Sides",
+            "kosherType": "Parve",
+            "image": "images/Latkes.jpg",
+            "prepTime": 25,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "potatoes",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onion",
+                    "quantity": "1",
+                    "unit": "large"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "matzo meal",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Grate the potato and onion together on the coarse side. The onion holds off the browning.",
+                "Squeeze hard in a cloth and let the liquid stand 3 minutes — the starch settles. Pour off the water and return the starch to the mixture.",
+                "Mix with eggs, matzo meal, salt and pepper, and fry at once. A mixture left standing darkens and weeps.",
+                "Heat the oil to 175°C. Too hot and the edges burn while the middle stays raw; too cool and they drink oil.",
+                "Drop spoonfuls in and flatten slightly. Fry 3–4 minutes a side to a deep gold.",
+                "Drain on a rack, not on paper — paper traps steam and the latke goes soft. Parve."
+            ],
+            "tags": [
+                "latkes",
+                "hanukkah",
+                "parve",
+                "fried"
+            ]
+        },
+        {
+            "id": "applesauce",
+            "title": "Applesauce",
+            "originalName": "עפּלמוס",
+            "description": "Tart apples cooked down with cinnamon and lemon to a coarse sauce — the parve companion to latkes.",
+            "category": "Kugel & Sides",
+            "kosherType": "Parve",
+            "image": "images/Applesauce.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "tart apples",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "strip of lemon zest",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Peel and cut the apples into large chunks. Leave a few unpeeled — the skins give a faint pink and more flavour.",
+                "Cook with the water, cinnamon stick and lemon zest in a covered pot, 20 minutes.",
+                "Uncover, add sugar and lemon juice and cook another 10–15 minutes.",
+                "Remove the cinnamon stick and the zest.",
+                "Crush with a fork to a coarse texture — a processor turns this into baby food.",
+                "Serve warm or cold beside latkes. Parve — which is why latkes can follow meat."
+            ],
+            "tags": [
+                "applesauce",
+                "hanukkah",
+                "parve",
+                "side"
+            ]
+        },
+        {
+            "id": "kasha-varnishkes",
+            "title": "Kasha Varnishkes",
+            "originalName": "קאַשע וואַרנישקעס",
+            "description": "Buckwheat and bow-tie pasta with a great deal of fried onion — a side that is nearly a dish.",
+            "category": "Kugel & Sides",
+            "kosherType": "Parve",
+            "image": "images/Kasha_Varnishkes.jpg",
+            "prepTime": 15,
+            "cookTime": 30,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "buckwheat groats",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "bow-tie pasta",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": "large"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling vegetable stock",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Mix the dry buckwheat with a beaten egg until every grain is coated.",
+                "Dry it in a hot dry pan for 3 minutes, stirring, until the grains separate. This is what stops it turning to porridge — skip it and the kasha smears.",
+                "Add the boiling stock, cover and cook 12 minutes over low heat until absorbed.",
+                "Meanwhile fry the onion in the oil for 18 minutes to a deep brown, and boil the pasta.",
+                "Combine everything with the onion and the oil left in the pan.",
+                "Season generously. Parve with oil; made with schmaltz it is meat."
+            ],
+            "tags": [
+                "kasha",
+                "buckwheat",
+                "parve",
+                "side"
+            ]
+        },
+        {
+            "id": "tzimmes-gezer",
+            "title": "Parve Carrot Tzimmes",
+            "originalName": "מערן צימעס",
+            "description": "Carrot, prune and honey without meat — the version that can go to a dairy meal.",
+            "category": "Kugel & Sides",
+            "kosherType": "Parve",
+            "image": "images/Tzimmes_Gezer.jpg",
+            "prepTime": 15,
+            "cookTime": 50,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "carrots, thickly sliced",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "dried prunes",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "orange juice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Cut the carrots into thick 2 cm rounds — any thinner and they dissolve.",
+                "Cook the carrot in the orange juice with a little water for 25 minutes until tender.",
+                "Add prunes, honey and cinnamon and cook another 15 minutes.",
+                "Mix the flour with 2 tablespoons of cold water and stir it in — it thickens the syrup without cream.",
+                "Cook 5 minutes more until the liquid glazes and coats the carrot.",
+                "Salt lightly for balance. Parve — unlike the meat tzimmes, it also follows cheese."
+            ],
+            "tags": [
+                "tzimmes",
+                "carrot",
+                "parve",
+                "rosh hashanah"
+            ]
+        },
+        {
+            "id": "kruv-kavush",
+            "title": "Homemade Sauerkraut",
+            "originalName": "זויערע קרויט",
+            "description": "Cabbage, salt and time — a natural two-week ferment, with no vinegar and nothing else.",
+            "category": "Kugel & Sides",
+            "kosherType": "Parve",
+            "image": "images/Kruv_Kavush.jpg",
+            "prepTime": 30,
+            "cookTime": 0,
+            "servings": 20,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white cabbage",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "coarse non-iodised salt",
+                    "quantity": "40",
+                    "unit": "g"
+                },
+                {
+                    "name": "caraway seeds",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "carrot, grated",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Weigh the cabbage after coring and take 2% of that weight in salt. That ratio is the whole recipe.",
+                "Shred it fine, scatter the salt and massage by hand for 10 minutes until it weeps and softens.",
+                "Mix in the caraway, carrot and bay and pack into a jar layer by layer, pressing down hard.",
+                "The liquid must cover the cabbage completely. If it does not, top up with a 2% salt brine.",
+                "Set a weight on top and cover with cloth. Leave at 18–20°C for 10–14 days.",
+                "Skim any foam. When it is sour enough, refrigerate. Parve, and it keeps for months."
+            ],
+            "tags": [
+                "sauerkraut",
+                "ferment",
+                "parve",
+                "winter"
+            ]
+        },
+        {
+            "id": "knish",
+            "title": "Potato Knish",
+            "originalName": "קניש",
+            "description": "A thin dough wrapper around potato and onion — street food that became a Shabbat pastry.",
+            "category": "Kugel & Sides",
+            "kosherType": "Parve",
+            "image": "images/Knish.jpg",
+            "prepTime": 50,
+            "cookTime": 45,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "egg for the dough",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "boiled potatoes",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "fried onions",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "egg for the filling",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Knead flour, oil, water, egg and salt into a soft dough and rest an hour, covered — without the rest it will not stretch thin.",
+                "Mash the potatoes while hot and mix with the fried onion, egg, salt and plenty of black pepper.",
+                "Roll the dough into a long, very thin strip on a floured cloth.",
+                "Lay the filling in a line along one edge and roll into a tight log, using the cloth to help.",
+                "Cut into 6 cm pieces, pinch each end closed and press down slightly.",
+                "Brush with oil and bake at 190°C for 40–45 minutes until golden. Parve."
+            ],
+            "tags": [
+                "knish",
+                "potato",
+                "parve",
+                "pastry"
+            ]
+        },
+        {
+            "id": "blintzes-gvina",
+            "title": "Cheese Blintzes",
+            "originalName": "בלינצעס",
+            "description": "Paper-thin crepes filled with sweet cheese, folded and fried in butter until golden.",
+            "category": "Kugel & Sides",
+            "kosherType": "Dairy",
+            "image": "images/Blintzes_Gvina.jpg",
+            "prepTime": 40,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "milk",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "eggs for the batter",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "farmer cheese",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "egg yolk for the filling",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "butter for frying",
+                    "quantity": "4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Whisk flour, milk, eggs and salt into a thin batter. Strain it and rest 30 minutes — resting relaxes the gluten and the crepe comes out tender.",
+                "Heat a non-stick pan and grease lightly. Pour a thin ladleful and swirl at once.",
+                "Cook on ONE side only, about a minute, until the edges lift. Turn out onto a plate, cooked side down.",
+                "Mix the cheese, yolk, sugar and lemon zest into a thick filling.",
+                "Put a spoonful on the cooked side, fold in the sides and roll into a tight parcel.",
+                "Fry in butter 2–3 minutes a side until golden. Serve with sour cream. Dairy."
+            ],
+            "tags": [
+                "blintzes",
+                "cheese",
+                "dairy",
+                "shavuot"
+            ]
+        },
+        {
+            "id": "challah",
+            "title": "Braided Challah",
+            "originalName": "חלה",
+            "description": "A lightly sweet Sabbath loaf on oil and eggs, braided in six and glazed gold before baking.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Parve",
+            "image": "images/Challah.jpg",
+            "prepTime": 150,
+            "cookTime": 30,
+            "servings": 12,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "egg yolk + sesame to glaze",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Froth the yeast, sugar and warm water for 10 minutes until high and foaming. No foam means dead yeast and the dough will not rise.",
+                "Add eggs, oil, flour and salt and knead 10 minutes to a smooth dough that just tacks to a finger.",
+                "Rise 1½ hours covered until doubled, then knock back and divide into strands.",
+                "Braid from the middle outwards in both directions — that is how the braid comes out even.",
+                "Prove again 45 minutes on the tray. Brush with yolk and scatter sesame.",
+                "Bake at 180°C for 28–32 minutes. Parve — made with oil and not butter, so it belongs on a meat table."
+            ],
+            "tags": [
+                "challah",
+                "shabbat",
+                "parve",
+                "bread"
+            ]
+        },
+        {
+            "id": "hamantaschen",
+            "title": "Hamantaschen",
+            "originalName": "המן־טאַשן",
+            "description": "Triangular cookies filled with poppy seed or prune — and the trick is chilling the dough twice.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Parve",
+            "image": "images/Hamantaschen.jpg",
+            "prepTime": 60,
+            "cookTime": 20,
+            "servings": 30,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "orange juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "poppy seed or prune filling",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "grated orange zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Mix oil, sugar, eggs, orange juice and zest. Add flour and baking powder and knead only lightly.",
+                "Wrap and chill at least an hour. Warm dough smears and will not cut clean rounds.",
+                "Roll to 4 mm and cut 8 cm circles.",
+                "Put a teaspoon of filling in the centre — no more. Extra filling forces the triangle open in the oven.",
+                "Fold in three corners and pinch the three seams hard. Chill the tray another 20 minutes before baking.",
+                "Bake at 180°C for 18–20 minutes until only the edges are golden. Parve."
+            ],
+            "tags": [
+                "hamantaschen",
+                "purim",
+                "parve",
+                "cookies"
+            ]
+        },
+        {
+            "id": "rugelach",
+            "title": "Cream Cheese Rugelach",
+            "originalName": "רוגעלעך",
+            "description": "The original dough — butter and cream cheese in equal weight, rolled around nuts and cinnamon.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Dairy",
+            "image": "images/Rugelach.jpg",
+            "prepTime": 90,
+            "cookTime": 25,
+            "servings": 32,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "cold butter",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "cream cheese",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar for the dough",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "brown sugar for the filling",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "apricot jam",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Work the cold butter, cream cheese, flour and sugar only until the dough just comes together. Overworking destroys the flake.",
+                "Divide in four, flatten into discs and chill overnight. That long chill is what separates the layers.",
+                "Roll each disc into a thin circle and spread a very thin film of jam.",
+                "Scatter the walnuts, brown sugar and cinnamon and cut the circle into 8 wedges.",
+                "Roll each wedge from the wide base to the point and curve slightly into a crescent.",
+                "Chill another 30 minutes, then bake at 180°C for 22–25 minutes. Dairy — butter and cheese, so never after meat."
+            ],
+            "tags": [
+                "rugelach",
+                "cream cheese",
+                "dairy",
+                "pastry"
+            ]
+        },
+        {
+            "id": "babka",
+            "title": "Chocolate Babka",
+            "originalName": "באַבקע",
+            "description": "A butter-rich yeast dough rolled, split lengthwise and twisted so the chocolate shows on the outside.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Dairy",
+            "image": "images/Babka.jpg",
+            "prepTime": 180,
+            "cookTime": 40,
+            "servings": 12,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "lukewarm milk",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "melted dark chocolate",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "sugar syrup to glaze",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Froth the yeast in warm milk with a tablespoon of sugar for 10 minutes.",
+                "Add flour, eggs, sugar and salt and knead 8 minutes. Add the soft butter cube by cube and knead 8 more until smooth and glossy.",
+                "Rise 1 hour, then chill 2 hours — cold butter dough cuts clean; warm dough smears.",
+                "Roll into a rectangle, spread with melted chocolate and roll into a tight log.",
+                "Cut the log lengthwise and twist the two halves with the cut sides up, so the layers show.",
+                "Prove 45 minutes, bake at 175°C for 38–42 minutes, and brush with syrup the moment it leaves the oven. Dairy."
+            ],
+            "tags": [
+                "babka",
+                "chocolate",
+                "dairy",
+                "pastry"
+            ]
+        },
+        {
+            "id": "ugat-dvash",
+            "title": "Honey Cake",
+            "originalName": "לעקעך",
+            "description": "The Rosh Hashanah lekach — honey, coffee and spice, and a cake that is better after two days.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Parve",
+            "image": "images/Ugat_Dvash.jpg",
+            "prepTime": 25,
+            "cookTime": 60,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "honey",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "strong black coffee",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "brown sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cinnamon and ginger",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Warm the honey and coffee together until the honey dissolves, and cool completely. Hot honey will scramble the eggs.",
+                "Whisk the eggs, brown sugar and oil until even.",
+                "Sift the flour, soda, cinnamon and ginger.",
+                "Fold in the dry ingredients and the honey-coffee alternately, stopping the moment there are no lumps.",
+                "Bake in a loaf tin at 165°C for 55–60 minutes. Too hot an oven burns the honey before the centre sets.",
+                "Wrap it cold and wait two days. The flavour rounds out and the crumb turns moist. Parve."
+            ],
+            "tags": [
+                "honey cake",
+                "rosh hashanah",
+                "parve",
+                "lekach"
+            ]
+        },
+        {
+            "id": "shtrudel-tapuchim",
+            "title": "Apple Strudel",
+            "originalName": "שטרודל",
+            "description": "Dough stretched by hand until you can see through it, filled with apple, raisins and walnuts.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Parve",
+            "image": "images/Shtrudel_Tapuchim.jpg",
+            "prepTime": 60,
+            "cookTime": 45,
+            "servings": 10,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tart apples",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "breadcrumbs",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar and cinnamon",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Knead flour, oil, water and salt for 10 minutes until very smooth and elastic. Rest an hour, covered, in an oiled bowl.",
+                "Spread a cloth on the table and flour it. Stretch the dough over the backs of your hands from the centre outwards until it is translucent.",
+                "Fry the breadcrumbs in oil until golden and scatter them over the dough — they absorb the apple juices and stop a soggy base.",
+                "Scatter thinly sliced apple, raisins, walnuts, sugar and cinnamon over one third of the sheet.",
+                "Roll up using the cloth, fold the ends in and lift onto a tray.",
+                "Brush with oil and bake at 190°C for 40–45 minutes. Parve — oil, not butter."
+            ],
+            "tags": [
+                "strudel",
+                "apple",
+                "parve",
+                "pastry"
+            ]
+        },
+        {
+            "id": "mandelbrot",
+            "title": "Mandelbrot",
+            "originalName": "מאַנדלברויט",
+            "description": "Twice-baked almond cookies — hard, dry, and meant to be dipped in tea.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Parve",
+            "image": "images/Mandelbrot.jpg",
+            "prepTime": 25,
+            "cookTime": 55,
+            "servings": 30,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "whole almonds",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar and cinnamon to scatter",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Whisk eggs, sugar, oil and vanilla. Add flour and baking powder and mix to a soft, sticky dough.",
+                "Fold in whole almonds, not chopped. They are what gives the bite.",
+                "Shape two flat logs on a tray, about 8 cm wide. They will spread.",
+                "Bake at 175°C for 30 minutes until set but still pale.",
+                "Take them out and slice while hot with a serrated knife into 1.5 cm pieces, then lay them flat.",
+                "Scatter sugar and cinnamon and return for 20–25 minutes until dry. Parve, and keeps for weeks."
+            ],
+            "tags": [
+                "mandelbrot",
+                "almond",
+                "parve",
+                "cookies"
+            ]
+        },
+        {
+            "id": "kichel",
+            "title": "Kichel",
+            "originalName": "קיכל",
+            "description": "Airy, light cookies from four ingredients that puff up like pillows in the oven.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Parve",
+            "image": "images/Kichel.jpg",
+            "prepTime": 30,
+            "cookTime": 30,
+            "servings": 24,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar to scatter",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Beat the eggs for 5 minutes until pale and foaming — that is all the lift there is, since there is no raising agent.",
+                "Add the oil in a thin stream while still beating.",
+                "Fold in the flour, sugar and salt gently, mixing no more than needed.",
+                "Scatter sugar generously on a surface, drop spoonfuls of dough and roll them in it on both sides.",
+                "Flatten into thin rounds and space them widely — they double in area.",
+                "Bake at 175°C for 28–30 minutes until golden and puffed. Parve."
+            ],
+            "tags": [
+                "kichel",
+                "parve",
+                "cookies",
+                "kiddush"
+            ]
+        },
+        {
+            "id": "teiglach",
+            "title": "Teiglach",
+            "originalName": "טייגלעך",
+            "description": "Tiny dough balls cooked in boiling honey syrup until they swell and turn gold.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Parve",
+            "image": "images/Teiglach.jpg",
+            "prepTime": 45,
+            "cookTime": 50,
+            "servings": 20,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "chopped nuts",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Knead flour, eggs, oil and salt into a firm dough. Roll into thin ropes and cut into chickpea-sized pieces.",
+                "Heat honey, sugar and ginger in a wide pot to a steady gentle boil.",
+                "Add all the dough balls at once and cover immediately. Shake the pot; never stir with a spoon.",
+                "Cook covered 20 minutes without lifting the lid — they swell on the trapped steam.",
+                "Uncover, shake again, and cook 20–25 minutes until golden brown and hollow-sounding.",
+                "Add a quarter cup of boiling water carefully — the syrup will foam. Stir in the nuts and turn out onto oiled paper. Parve."
+            ],
+            "tags": [
+                "teiglach",
+                "honey",
+                "parve",
+                "rosh hashanah"
+            ]
+        },
+        {
+            "id": "kompot",
+            "title": "Dried Fruit Compote",
+            "originalName": "קאָמפּאָט",
+            "description": "Prunes, apricots and figs in a light cinnamon syrup — the dessert that was always in the fridge.",
+            "category": "Pastries & Desserts",
+            "kosherType": "Parve",
+            "image": "images/Kompot.jpg",
+            "prepTime": 15,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried prunes",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried apricots",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried figs",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon slices",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.2",
+                    "unit": "litres"
+                }
+            ],
+            "instructions": [
+                "Rinse all the dried fruit in cold water.",
+                "Simmer water, sugar, cinnamon and lemon slices 8 minutes into a light syrup.",
+                "Add the prunes, apricots and figs and cook 20 minutes over low heat.",
+                "Add the raisins for the last 5 minutes only — any earlier and they fall apart entirely.",
+                "Lift out the cinnamon stick and the lemon slices.",
+                "Chill overnight. The flavour deepens in the cold, not in the cooking. Served cold. Parve."
+            ],
+            "tags": [
+                "compote",
+                "dried fruit",
+                "parve",
+                "dessert"
+            ]
+        }
+    ]
+}
